@@ -1,4 +1,4 @@
-##SQL Exploratory Data Analysis: Global Layoffs
+SQL Exploratory Data Analysis: Global Layoffs
 (See 'Exploratory_Data_Analysis.sql')
 
 Project Overview
